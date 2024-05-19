@@ -44,4 +44,10 @@
   =W0cu
   -----END PGP PUBLIC KEY BLOCK-----
   ```
+
+  or
+
+  ```bash
+  $ gpg --keyserver keyserver.ubuntu.com --recv-keys 88D79132F8014ADE508721E112390AD60381E65C
+  ```
 </details>
