@@ -36,4 +36,10 @@
   =EJ2M
   -----END PGP PUBLIC KEY BLOCK-----
   ```
+
+  Or:
+
+  ```console
+  $ gpg --keyserver keys.openpgp.org --recv-keys 550E1C3F4FD12B38E30F65B370C8D72A70F55E7E
+  ```
 </details>
